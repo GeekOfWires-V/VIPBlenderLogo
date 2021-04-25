@@ -18,5 +18,5 @@ Current Contributors Include:
 
 Some example renders include:
 
-![VIPGC Desktop Wallpaper](./Renders/Background/4K.png)
-(2020-08-17)
+![VIPGC Desktop Wallpaper](./Current/Primary/VIP_4K.png)
+(2021-04-24)
