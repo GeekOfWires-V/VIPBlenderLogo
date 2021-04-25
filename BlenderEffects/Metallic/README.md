@@ -1,4 +1,8 @@
-# Metallic Effect
+# VIP Logo Project
+
+# Blender Effects
+
+## Metallic Effect
 
 The effect for the metallic effect can be seen briefly on the background on the shield. The shader can be adjusted for rocky appearances as well.
 <p align="center">
