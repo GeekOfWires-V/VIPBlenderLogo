@@ -13,7 +13,7 @@ Current Contributors Include:
 - [GeekOfWires](https://geekofwires.com) - [Email](mailto:geekofwires@vivaldi.net)
 - Wolfskopf
 - Haze
-- Grand Lizard
+- !GOD
 - Cc
 
 Some example renders include:
