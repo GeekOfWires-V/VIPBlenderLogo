@@ -13,8 +13,11 @@ Current Contributors Include:
 - [GeekOfWires](https://geekofwires.com) - [Email](mailto:geekofwires@vivaldi.net)
 - Wolfskopf
 - Haze
-- !GOD
 - Cc
+
+Former Contributors:
+
+- !GOD (has left the community)
 
 Some example renders include:
 
